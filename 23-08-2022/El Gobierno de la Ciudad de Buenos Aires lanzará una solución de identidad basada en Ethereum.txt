@@ -1,0 +1,32 @@
+El Gobierno de la Ciudad de Buenos Aires lanzará una solución de identidad basada en Ethereum
+
+Este jueves comenzó en Buenos Aires, 
+, el EthLatam, un evento dedicado al mundo de las 
+ y las soluciones de tecnología 
+. En el marco del evento, 
+ y operaciones gubernamentales basadas en una tecnología de capa 2 de Ethereum.
+El secretario de Innovación y Transformación 
+, Diego Fernández, fue el encargado de presentar 
+. “
+“, explicó el político. Según las autoridades de la Ciudad, se trata de “
+“.
+“
+”, explicó Diego Fernández y agregó “
+”.
+La solución estará a cargo de Starknet, un Validity-Rollup descentralizado y permisionless (también conocido como “ZK-Rollup”). 
+, permitiendo que cualquier dApp logre una escala robusta para las operaciones, pero sin comprometer la composibilidad y seguridad de Ethereum. 
+, “
+”.
+De la misma manera, 
+, “
+”. Por último, se buscará hacer a los individuos “
+” que se autoregule a través de las propias medidas de seguridad y consenso de la plataforma.
+La solución tecnológica 
+. Este modelo está organizado en cuatro niveles, cada uno de los cuales tiene una dimensión de governance y una dimensión tecnológica, y se enfoca en resolver una problemática específica:
+La red también tendrá interoperabilidad y trabajará sobre blockchains abiertas no permisionadas de manera multi-cadena. En el mismo sentido, 
+.
+“
+”, concluyó Fernández.
+Envianos correo con tu opinion y sugerencias.  
+Una sociedad enfrentada no construye futuro, el debate abre nuestras cabezas y nos permite observar los acuerdos para superar nuestras diferencias. Debate y Convergencia se propone exponer diversos temas y traerlos a la mesa de la discusión, con un sentido empático que nos lleve a comprender que en cada uno de nosotros existe la firme voluntad de construir un futuro mejor.
+Copyright 2021 – Debate y Convergencia. Todo los derechos reservados.

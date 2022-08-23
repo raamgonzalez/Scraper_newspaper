@@ -1,0 +1,3 @@
+Links = //h3[@class="elementor-post__title"]/a/@href
+Titulo = //h2[@class="elementor-heading-title elementor-size-default"]/text()
+Cuerpo = //div[@class="elementor-widget-container"]/p[not(@class)]/text()
